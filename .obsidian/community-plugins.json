@@ -2,11 +2,11 @@
   "calendar",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-style-settings",
   "templater-obsidian",
   "excalibrain",
   "obsidian-tasks-plugin",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-git"
 ]

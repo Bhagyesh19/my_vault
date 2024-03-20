@@ -6,6 +6,7 @@ tags:
   - recon
 ---
 [[pentest_template]]
+Updated
 ##  Enumeration Checklist:
 
 1. Users and Groups (Domain/Local)
