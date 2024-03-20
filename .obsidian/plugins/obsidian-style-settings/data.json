@@ -1,0 +1,12 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-mercury",
+  "encore-settings@@encore-fancy-headers": false,
+  "encore-settings@@encore-mobile-oled-mode": true,
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@blur-amount": "encore-blur-less",
+  "encore-settings@@encore-bright-accent": true,
+  "encore-settings@@encore-disable-grain": true,
+  "encore-settings@@encore-mobile-translucency": false,
+  "vicious@@vibrant-indents": false,
+  "vicious@@scrollbar-hide": false
+}
