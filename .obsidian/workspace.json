@@ -65,6 +65,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "783116efe52104fa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -149,17 +157,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "783116efe52104fa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f0461c29969cc4",
+  "active": "0c7c3c1719101b4a",
   "lastOpenFiles": [
     "templates/pentest_template.md",
     "notes/active_directory/ad_enumeration.md",
