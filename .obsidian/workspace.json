@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c7c3c1719101b4a",
+  "active": "98f0461c29969cc4",
   "lastOpenFiles": [
     "templates/pentest_template.md",
     "notes/active_directory/ad_enumeration.md",

@@ -81,8 +81,8 @@ Get-DomainComputer | Get-NetLoggedon      # Returns all logged on users for all 
 ```
 
 > [!INFO] Identifiers used in upper script
->  PDC = Primary Domain Controller
->  adsi = *Active Directory Services Interface* (COM interface) 
+>>  PDC = Primary Domain Controller
+>>  adsi = *Active Directory Services Interface* (COM interface) 
 
 - Info: 
 	- Remote Server Administration Tools (RSAT) provide cmdlets like Get-ADUser to communication on domain. But they are only pre-installed on domain controller most of the time. So We can create custom scripts to enumerate AD environment from non domain controller machine using .NET Classes to communicate on domain. This also does not requires any adminstrator privileges.
