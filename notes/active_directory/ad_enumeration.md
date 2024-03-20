@@ -82,6 +82,7 @@ Get-DomainComputer | Get-NetLoggedon      # Returns all logged on users for all 
 
 > [!INFO] Identifiers used in upper script
 >>  PDC = Primary Domain Controller
+>>  
 >>  adsi = *Active Directory Services Interface* (COM interface) 
 
 - Info: 
