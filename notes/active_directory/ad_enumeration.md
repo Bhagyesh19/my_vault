@@ -36,6 +36,7 @@ Get-NetUser -SPN          # Enumerate SPN using powerview cmdlet
  
 #### Enumeration using powerview.ps1 script
 
+> [!TIP]
 > *Use -Credential option in powerview commands if you want to run the command as another user. It takes PSCredentials object as argument. Below is commands to create PSCredentials object*
 ```powershell
 $SecPassword = ConvertTo-SecureString 'P@ssw0rd' -AsPlainText -Force
@@ -135,6 +136,3 @@ sudo neo4j start          # Login to neo4j on given localhost port given in outp
 
 > [!info]
 > We can also use bloodhound.py to collect data but it's not officially supported by Bloodhound development team.
-
-
-
