@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/active_directory/ad_exploitation.md",
+                "file": "notes/active_directory/ad_lateral_movement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/active_directory/ad_exploitation.md",
+                "file": "notes/active_directory/ad_lateral_movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/active_directory/ad_exploitation.md",
+                "file": "notes/active_directory/ad_lateral_movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/active_directory/ad_exploitation.md"
+                "file": "notes/active_directory/ad_lateral_movement.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "ad1005cf9785c50e",
   "lastOpenFiles": [
-    "notes/active_directory/ad_exploitation.md",
     "notes/active_directory/ad_enumeration.md",
+    "notes/active_directory/ad_exploitation.md",
+    "notes/active_directory/ad_lateral_movement.md",
     "templates/pentest_template.md",
     "notes/active_directory/Untitled 1.md",
     "notes/active_directory",
